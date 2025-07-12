@@ -7,6 +7,7 @@ Prerequisites
   * Node.js installed
   * MongoDB running (Community Edition)
   * MongoDB compass (for visualization of documents)
+    
 
 Step 1: For verify installation
 
