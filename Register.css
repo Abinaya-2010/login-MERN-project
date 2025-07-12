@@ -1,0 +1,30 @@
+.form-container{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(236, 227, 214);
+}
+
+.custom-input{
+    display: block;
+    margin: 20px;
+    font-size: 1.5em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:10px;
+    
+}
+.button-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.custom-button{
+    font-size: 1.5em;
+    background-color: rgb(220, 126, 126);
+}
